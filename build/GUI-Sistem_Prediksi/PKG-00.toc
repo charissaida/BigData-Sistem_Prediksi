@@ -1,0 +1,73 @@
+('E:\\Kuliah\\Semester 6\\Big '
+ 'Data\\Big-Data-main\\Sistem_Prediksi\\build\\GUI-Sistem_Prediksi\\GUI-Sistem_Prediksi.pkg',
+ {'BINARY': True,
+  'DATA': True,
+  'EXECUTABLE': True,
+  'EXTENSION': True,
+  'PYMODULE': True,
+  'PYSOURCE': True,
+  'PYZ': False,
+  'SPLASH': True},
+ [('PYZ-00.pyz',
+   'E:\\Kuliah\\Semester 6\\Big '
+   'Data\\Big-Data-main\\Sistem_Prediksi\\build\\GUI-Sistem_Prediksi\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'E:\\Kuliah\\Semester 6\\Big '
+   'Data\\Big-Data-main\\Sistem_Prediksi\\build\\GUI-Sistem_Prediksi\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'E:\\Kuliah\\Semester 6\\Big '
+   'Data\\Big-Data-main\\Sistem_Prediksi\\build\\GUI-Sistem_Prediksi\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'E:\\Kuliah\\Semester 6\\Big '
+   'Data\\Big-Data-main\\Sistem_Prediksi\\build\\GUI-Sistem_Prediksi\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'E:\\Kuliah\\Semester 6\\Big '
+   'Data\\Big-Data-main\\Sistem_Prediksi\\build\\GUI-Sistem_Prediksi\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'E:\\Kuliah\\Semester 6\\Big '
+   'Data\\Big-Data-main\\Sistem_Prediksi\\build\\GUI-Sistem_Prediksi\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'C:\\Users\\WINDOWS '
+   '10\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'C:\\Users\\WINDOWS '
+   '10\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth_mplconfig',
+   'C:\\Users\\WINDOWS '
+   '10\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_mplconfig.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgres',
+   'C:\\Users\\WINDOWS '
+   '10\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgres.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgutil',
+   'C:\\Users\\WINDOWS '
+   '10\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   'C:\\Users\\WINDOWS '
+   '10\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('pyi_rth__tkinter',
+   'C:\\Users\\WINDOWS '
+   '10\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth__tkinter.py',
+   'PYSOURCE'),
+  ('GUI-Sistem_Prediksi',
+   'E:\\Kuliah\\Semester 6\\Big '
+   'Data\\Big-Data-main\\Sistem_Prediksi\\GUI-Sistem_Prediksi.py',
+   'PYSOURCE')],
+ True,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)
